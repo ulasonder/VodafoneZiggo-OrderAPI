@@ -1,4 +1,4 @@
-# OrderAPI
+# VodafoneZiggo - OrderAPI
 OrderAPI is a RESTful API that's built with Java / Maven / Spring Boot (version 2.7.4) application that is built for managing orders for customers. 
 It provides two functionalities via HTTP GET/POST endpoints: 
   - Getting list of all orders (Content-Type: application/json): HTTP GET - http://localhost:8080/order
